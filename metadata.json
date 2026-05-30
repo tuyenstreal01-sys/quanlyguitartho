@@ -1,0 +1,6 @@
+{
+  "name": "Web Quản Lý Đàn Guitar",
+  "description": "Hệ thống quản lý hàng hóa, quy trình sơn, công nợ và báo cáo tồn kho chuyên nghiệp cho xưởng sản xuất đàn guitar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
